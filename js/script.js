@@ -35,5 +35,5 @@ counterInst1.increase(35);
 counterInst1.increase(16);
 counterInst1.decrease(13);
 console.log(counterInst1.get());
-console.log(counterStatistic);
+console.log(counterInst1.getStatistic())
 
