@@ -1,6 +1,3 @@
-
-// Как посмотреть статистику в консоли?так и не смог понять,есть какая-то проблема с областями видимости?
-
 function counter(initialValue = 0) {
     const counterStatistic = {
         increase: 0,
